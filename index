@@ -1,0 +1,5 @@
+<!DOCTYPE html>
+<html>
+<head><title>My Mini Project</title></head>
+<body><h1>Hello from Docker and CI/CD!</h1></body>
+</html>
